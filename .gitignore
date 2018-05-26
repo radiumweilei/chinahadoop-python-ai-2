@@ -106,3 +106,4 @@ venv.bak/
 .idea
 
 */**/.ipynb_checkpoints
+lect02_codes/lect02_proj/output
