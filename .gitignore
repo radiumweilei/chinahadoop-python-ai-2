@@ -108,3 +108,5 @@ venv.bak/
 */**/.ipynb_checkpoints
 */**/output
 */**/*.msi
+lect06_codes/lect06_proj/data/fashion-mnist_test.csv
+lect06_codes/lect06_proj/data/fashion-mnist_train.csv
